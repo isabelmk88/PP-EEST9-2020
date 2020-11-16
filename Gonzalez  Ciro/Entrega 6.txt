@@ -1,0 +1,7 @@
+Actualizar el repositorio de GitHub con su apellido con las soluciones de las actividades 2 y 3.
+
+Actividad 2: Saludando
+Desarrollar una aplicación en AppInventor que tenga un botón cuyo texto sea Saludar de modo que, al presionarlo, el teléfono diga “¡Hola, amigo!”.
+
+Actividad 3: Cara o ceca
+Desarrollar una aplicación en AppInventor que simule una tirada de una moneda.  Al agitar el teléfono, en la pantalla tiene que aparecer con idéntica probabilidad, o bien el lado cara de la moneda o bien el lado ceca.
